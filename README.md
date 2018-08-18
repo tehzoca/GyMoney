@@ -1,2 +1,2 @@
 # GyMoney
-linux wallet
+complied linux wallet v1311
